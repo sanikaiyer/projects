@@ -4,3 +4,6 @@
 [submodule "hiking-recommendation-system"]
 	path = hiking-recommendation-system
 	url = https://github.com/sanikaiyer/hiking-recommendation-system.git
+[submodule "datathon"]
+	path = datathon
+	url = https://github.com/sanikaiyer/datathon.git
