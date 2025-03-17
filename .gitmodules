@@ -1,3 +1,6 @@
 [submodule "wordle"]
 	path = wordle
 	url = https://github.com/sanikaiyer/wordle.git
+[submodule "hiking-recommendation-system"]
+	path = hiking-recommendation-system
+	url = https://github.com/sanikaiyer/hiking-recommendation-system.git
