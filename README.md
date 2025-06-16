@@ -6,12 +6,13 @@ Welcome to my collection of individual projects! This repository serves as the m
 
 Here are the projects currently included in this repository:
 
-1. **[Wordle](https://github.com/sanikaiyer/wordle)**  
-   A recreation of the popular Wordle game where players guess the hidden word based on given clues.
-
-2. **[Hiking Recommendation System](https://github.com/sanikaiyer/hiking-recommendation-system)**  
+1. **[Hiking Recommendation System](https://github.com/sanikaiyer/hiking-recommendation-system)**  
    A system that recommends hiking trails based on various user preferences like difficulty, distance, and elevation gain, while also factoring in weather conditions and sunset times for optimal hiking experiences.
 
-3. **[Datathon Project: SFUSD Allocation Optimization](https://github.com/sanikaiyer/datathon)**  
-   A data science project focused on optimizing the allocation of students to schools within the San Francisco Unified School District to maximize diversity, seat availability, and contiguity.
+2. **[Datathon Project: SFUSD Allocation Optimization](https://github.com/sanikaiyer/datathon)**  
+   A data science project focused on optimizing the allocation of students to schools within the San Francisco Unified School District to maximize diversity, seat availability, and contiguity.   
+
+3. **[Wordle](https://github.com/sanikaiyer/wordle)**  
+   A recreation of the popular Wordle game where players guess the hidden word based on given clues.
+
 
