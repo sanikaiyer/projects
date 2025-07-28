@@ -15,4 +15,5 @@ Here are the projects currently included in this repository:
 3. **[Wordle](https://github.com/sanikaiyer/wordle)**  
    A recreation of the popular Wordle game where players guess the hidden word based on given clues.
 
-
+4. **[Predicting Stock Prices Using Sentiment Analysis](https://github.com/sanikaiyer/predicting-stock-prices)**  
+   A machine learning project that uses VADER-based sentiment analysis on Reddit and news articles to enhance stock price prediction models like LSTM and XGBoost for the S&P 500.
