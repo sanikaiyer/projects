@@ -7,3 +7,6 @@
 [submodule "datathon"]
 	path = datathon
 	url = https://github.com/sanikaiyer/datathon.git
+[submodule "predicting-stock-prices"]
+	path = predicting-stock-prices
+	url = https://github.com/sanikaiyer/predicting-stock-prices.git
